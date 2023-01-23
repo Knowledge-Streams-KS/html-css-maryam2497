@@ -201,3 +201,12 @@
     font-size: 1.1rem;
     font-family: 'Poppins', sans-serif;
   }
+
+.image-des:hover .code{
+  color: #be3144;
+  margin: 0px 7px;
+}
+.code {
+  color: #303841;
+  transition: color 0.3s ease-out;
+}
