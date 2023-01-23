@@ -176,12 +176,12 @@
     width: 100%;
     max-width: 980px;
     margin-top: 4rem;
-    flex-wrap: wrap;
+    /* flex-wrap: wrap; */
     /* background-color: #be3144; */
   }
   .button{
-    display: inline-block;
-    padding: 1rem 2rem;
+    display: inline;
+    /* padding: 1rem 2rem; */
     border-radius: 2px;
     font-size: 2rem;
     text-shadow: 2px 2px 1px #1f1f1f;
